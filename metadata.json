@@ -1,0 +1,6 @@
+{
+  "name": "Sovereign & Co. | Ultra-Premium Barbershop",
+  "description": "Ultra-premium bespoke barbershop and gentlemen's club in Gaithersburg, Maryland. Bespoke grooming ceremonies, online reservation engine, and Gemini AI styling consultant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
